@@ -20,8 +20,8 @@ visual_recognition = VisualRecognitionV3(
     iam_apikey='{apikey}'
 )
 ```
-# demo Image
-
+## demo Image
+![Test Image 2](/output.JPG)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
